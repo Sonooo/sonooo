@@ -2,7 +2,7 @@
 
 ## Hi there, welcome. 👋
 
-My name is Saurabh Sanap Singh, **thank you** for visiting my profile!
+My name is Saurabh Sanap , **thank you** for visiting my profile!
 
 - 📌 I'm  from Nashik, Maharashtra <sub>IN</sub> .
 - 🔭 I’m currently looking for a career as a  Full-Stack Web Developer.
